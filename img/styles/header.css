@@ -9,4 +9,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-repeat: no-repeat;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.container_imagem{
+    padding: 1em;
 }
