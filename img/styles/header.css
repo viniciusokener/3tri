@@ -3,13 +3,15 @@
     height: 24px;
     blackgroud-image:url("../img/menu.svg");
     display: inline-block;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .cabeçalho{
     background-color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-repeat: no-repeat;
+    
 }
 .container{
     display: flex;
